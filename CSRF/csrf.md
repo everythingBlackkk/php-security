@@ -69,8 +69,6 @@ That is Called : Cross-Site Request From (**attacker.xyz**) to (**bank.com**)
 
 But! We Have A Small problem . Actually it's A big Problem :) , The Problem is There is something Called ***SOP***  (same-origin-policy) Will Blocked This Attack 
 
-![[Pasted image 20251028202139.png]]
-
 ### What is A "SOP"
 
 The **Same-Origin Policy (SOP)** restricts web pages from making requests to a different _origin_ than the one they came from.
